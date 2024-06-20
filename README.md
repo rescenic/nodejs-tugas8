@@ -7,7 +7,7 @@
 ```bash
 git clone https://github.com/rescenic/nodejs-tugas8.git
 
-cd nodejs-tugas7
+cd nodejs-tugas8
 
 npm install
 
