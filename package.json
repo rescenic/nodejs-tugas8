@@ -1,7 +1,7 @@
 {
   "name": "nodejs-tugas8",
   "version": "1.0.1",
-  "main": "index.js",
+  "main": "src/server.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "ts-node-dev -r tsconfig-paths/register src/server.ts"
